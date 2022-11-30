@@ -19,3 +19,6 @@ def psycopg2(secrets_dic):
 def alchemy(secrets_dic):
     return ('postgresql://' + secrets_dic['user'] + ':' + secrets_dic['pass'] + '@' + secrets_dic['host'] +
             ':' + str(secrets_dic['port']) + '/' + secrets_dic['database'])
+
+def get_api():
+    return "TH8tUlGkry6XCADNwAZ4VSTEmkJ7YqQH"
