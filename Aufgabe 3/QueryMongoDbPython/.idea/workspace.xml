@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9317a3a-7d26-4243-8a33-ce08cc971fff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 1/Aufgabe 1 Patrick Ries.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 1/Aufgabe 1 Patrick Ries.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 1/Aufgabe 1 analyse.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 1/Aufgabe 1 analyse.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/Assignment_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/Assignment_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/LinkedIn.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/LinkedIn.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/example-scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/example-scripts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/hidden.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/hidden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/swapi.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aufgabe 2/example-scripts/swapi.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IHJaVB3DFiDQGe33uZOtN70V4U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
