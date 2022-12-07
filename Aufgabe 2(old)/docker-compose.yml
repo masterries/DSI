@@ -1,0 +1,17 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    restart: always
+    ports: 
+      # choose an open port if you can't use 5432.
+      # the first port is the port of your local machine
+      - 5432:5432
+    volumes:
+      - database-data:/var/lib/postgresql/data/ # persist data even if container shuts down
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+
+volumes:
+  database-data: # named volumes can be managed easier using docker-compose
