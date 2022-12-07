@@ -16,7 +16,7 @@ def load_data():
     #load 100 entries
     db = client.get_database('sample_airbnb')
 
-    data = pd.DataFrame(db.listingsAndReviews.find().limit(100))
+    data = pd.DataFrame(db.listingsAndReviews.find().limit(1000))
     data["price"] = data.price.astype(str).astype(float)
     return data
 
